@@ -1,0 +1,16 @@
+body {
+text-align: center;
+margin-left: 240px;
+margin-right: 240px;
+}
+
+.no {
+	font-size: 3em;
+	font-style: italic;
+	font-weight: bold;
+	color:orange;
+}
+html {
+	background-image:url("VKTPd2M.jpg");
+	background-attachment:fixed;
+}
